@@ -1,0 +1,3 @@
+Allen Newell (1927 -1992) è stato un importante professore in radiologia, ricercatore nel campo dell’intelligenza artificiale e della psicologia cognitiva. L’obiettivo dei suoi studi era quello di rendere i calcolatori capaci di risolvere problemi impossibili per l’uomo.
+É stato a contatto con alcuni dei più importanti matematici, come Oliver Selfridge e Oskar Morgenstern, grazie a cui ha scoperto il mondo della matematica teorica e dell’informatica.
+A lui si devono la creazione di due importanti programmi di IA, il Logic Theory Machine(1956) e il General Problem Solver(1957).
